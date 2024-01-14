@@ -1,7 +1,7 @@
-# Días Feriados V 0.0.001 #
+# Días Tic-Tac-Toe  (Gato o Tres en línea) V 0.0.001 #
 
 ## Description of the project: ##
-Proyecto para hacer con react una consulta con fetch para el curso de MIT
+Proyecto para hacer con react manejo de padres e hijos y pasar estados para el curso de MIT
 
 ## How to Run: ##
 Descargar aplicación dar npm install y correr con npm start 
